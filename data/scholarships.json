@@ -1,0 +1,461 @@
+[
+  {
+    "id": 1,
+    "name": "TATA AIG Scholarship",
+    "scholars": "80",
+    "eligibility": [
+      "Girl students from Arunachal Pradesh, Assam, Bihar, J&K, Jharkhand, Manipur, Meghalaya, Mizoram, Nagaland, Odisha, Punjab, Sikkim, Tripura, Uttar Pradesh & Maharashtra",
+      "Completed Class 12 from JNV, KV, or State Govt. School",
+      "Belong to SC/ST/Gen-EWS/PwD category",
+      "Cleared JEE (Main/Advanced) or NEET",
+      "Secured admission in top 200 NIRF Engineering Colleges or Government Medical Colleges (2025)"
+    ],
+    "benefits": "Full financial support including tuition fees, living expenses, study materials, and a one-time gift of a brand-new laptop/tablet.",
+    "benefitAmount": "Full Coverage",
+    "openingMonth": "September",
+    "categories": ["girls", "engineering", "medical", "stem"],
+    "color": "#E53935",
+    "logo": "/logos/tata-aig.png"
+  },
+  {
+    "id": 2,
+    "name": "Reliance Foundation Scholarship",
+    "scholars": "5,000",
+    "eligibility": [
+      "Be a resident Indian citizen",
+      "Passed Standard 12th with minimum 60%",
+      "Currently enrolled in the 1st year (academic year 2025-26) in a regular full-time degree course in any stream",
+      "Household income < Rs. 15 Lakhs (preference given to < Rs. 2.5 Lakhs)",
+      "Aptitude Test is mandatory"
+    ],
+    "benefits": "Up to INR 2,00,000 over the duration of the degree programme.",
+    "benefitAmount": "Up to ₹2,00,000",
+    "openingMonth": "August",
+    "categories": ["open_to_all", "engineering", "stem"],
+    "color": "#1565C0",
+    "logo": "/logos/reliance.png"
+  },
+  {
+    "id": 3,
+    "name": "Infosys STEM Star Scholarship",
+    "scholars": "2,000",
+    "eligibility": [
+      "Indian female students",
+      "Completed Class 12",
+      "Enrolled in 1st-year STEM UG course (NIRF-accredited college)",
+      "2nd-year B.Arch / 5-year Integrated & Dual Degree students also eligible",
+      "Family income ≤ ₹8,00,000"
+    ],
+    "benefits": "Up to ₹1,00,000/year (max 4 years) covering actual expenses.",
+    "benefitAmount": "Up to ₹1,00,000/year",
+    "openingMonth": "July",
+    "categories": ["girls", "stem", "engineering"],
+    "color": "#0277BD",
+    "logo": "/logos/infosys.png"
+  },
+  {
+    "id": 4,
+    "name": "HDFC Bank Parivartan's ECSS Programme",
+    "scholars": "6,262",
+    "eligibility": [
+      "Indian nationals pursuing UG (B.Com, B.Sc, B.A, BCA, B.Tech, MBBS, LLB, B.Arch, Nursing, etc.)",
+      "Min. 55% in last exam",
+      "Family income ≤ ₹2.5L",
+      "Preference for students facing personal/family crisis in last 3 years"
+    ],
+    "benefits": "General UG students: INR 30,000. Professional UG students: INR 50,000.",
+    "benefitAmount": "₹30,000 – ₹50,000",
+    "openingMonth": "August",
+    "categories": ["open_to_all", "income_based", "engineering", "medical"],
+    "color": "#00448A",
+    "logo": "/logos/hdfc.png"
+  },
+  {
+    "id": 5,
+    "name": "Kotak Kanya Scholarship",
+    "scholars": "500",
+    "eligibility": [
+      "Open to meritorious girl students across India",
+      "Must have scored 75% or above in Class 12 (or equivalent CGPA)",
+      "Annual family income should be below ₹6,00,000",
+      "Secured admission (2025–26) to the first year of professional graduation programs (Engineering, MBBS, Integrated LLB, BS-MS/Research, Design, Architecture, etc.)",
+      "Reputed institutes such as NIRF/NAAC-accredited colleges, IISERs, or IISc Bangalore"
+    ],
+    "benefits": "₹1.5 lakh per year till course completion — for tuition, hostel, internet, transport, laptop, books & stationery.",
+    "benefitAmount": "₹1,50,000/year",
+    "openingMonth": "June",
+    "categories": ["girls", "engineering", "medical", "stem", "income_based"],
+    "color": "#D32F2F",
+    "logo": "/logos/kotak.png"
+  },
+  {
+    "id": 6,
+    "name": "SBI Platinum Jubilee Asha Scholarship",
+    "scholars": "23,230",
+    "eligibility": [
+      "Indian Nationals",
+      "Pursuing UG (any year) in Top 300 NIRF/NAAC A+ colleges",
+      "Last year score: 75% / 7 CGPA (Relaxation: SC/ST – 67.5% / 6.3 CGPA)",
+      "Family income ≤ ₹6,00,000",
+      "50% reserved for Girls + 50% for SC/ST"
+    ],
+    "benefits": "Degree Students: Up to ₹75,000. IIT Students: Up to ₹2,00,000. Medical Students: Up to ₹4,50,000. IIM Students: Up to ₹5,00,000.",
+    "benefitAmount": "₹75,000 – ₹5,00,000",
+    "openingMonth": "September",
+    "categories": ["open_to_all", "engineering", "medical", "income_based"],
+    "color": "#283593",
+    "logo": "/logos/sbi.png"
+  },
+  {
+    "id": 7,
+    "name": "LIC Golden Jubilee Scholarship",
+    "scholars": "11,200",
+    "eligibility": [
+      "Passed Class 10 or 12 with minimum 60% marks (2022–25)",
+      "Enrolled in 1st year of graduation, integrated, vocational, or diploma courses",
+      "Government-recognised institution/ITI",
+      "Family income not exceeding ₹4,50,000 per annum",
+      "Special category for Girl Child: Passed Class 10 with 60%+ pursuing intermediate/vocational/diploma"
+    ],
+    "benefits": "MBBS/BAMS/BHMS/BDS: ₹40,000/year. B.E./B.Tech/B.Arch: ₹30,000/year. Graduation/Diploma: ₹20,000/year. Girl Child (Class 12/Diploma): ₹15,000/year.",
+    "benefitAmount": "₹15,000 – ₹40,000/year",
+    "openingMonth": "September",
+    "categories": ["open_to_all", "girls", "engineering", "medical", "income_based"],
+    "color": "#01579B",
+    "logo": "/logos/lic.png"
+  },
+  {
+    "id": 8,
+    "name": "Azim Premji Scholarship",
+    "scholars": "2,50,000",
+    "eligibility": [
+      "Female students only",
+      "Passed Class 10 & 12 from govt schools in eligible states",
+      "1st-year UG/Diploma (2–5 yrs) students",
+      "Eligible States: Arunachal Pradesh, Assam, Bihar, Chhattisgarh, Jharkhand, Karnataka, Madhya Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Odisha, Puducherry, Rajasthan, Sikkim, Telangana, Tripura, Uttar Pradesh, and Uttarakhand"
+    ],
+    "benefits": "₹30,000 per year.",
+    "benefitAmount": "₹30,000/year",
+    "openingMonth": "September & January",
+    "categories": ["girls", "income_based"],
+    "color": "#00695C",
+    "logo": "/logos/azim-premji.png"
+  },
+  {
+    "id": 9,
+    "name": "Bharti Airtel Scholarship",
+    "scholars": "500",
+    "eligibility": [
+      "Confirmed admission (2025–26) to 1st year UG/5-year integrated courses",
+      "Courses in Electronics, Telecom, IT, Computer Science, Data Science, Aerospace, or Emerging Tech (AI, IoT, AR/VR, ML, Robotics)",
+      "Top 50 NIRF engineering institutes (2024 list)",
+      "Indian citizen and resident",
+      "Family income ≤ ₹8.5 lakh/year"
+    ],
+    "benefits": "100% of annual course fees for entire program (up to 5 years). Hostel & mess fees covered. Laptop provided in the first year.",
+    "benefitAmount": "Full Coverage + Laptop",
+    "openingMonth": "July",
+    "categories": ["engineering", "stem", "income_based"],
+    "color": "#E53935",
+    "logo": "/logos/airtel.png"
+  },
+  {
+    "id": 10,
+    "name": "Vahani Scholarship",
+    "scholars": "60",
+    "eligibility": [
+      "Class 12th students",
+      "Above and equal to 85% in Class 10th",
+      "Annual family income should be less than 3 lakhs"
+    ],
+    "benefits": "Full fee coverage (tuition + hostel/PG). Laptop (one-time), internet, travel & textbook stipends. Mentorship, career guidance, skill training, internships & workshops.",
+    "benefitAmount": "Full Coverage + Laptop",
+    "openingMonth": "August",
+    "categories": ["open_to_all", "income_based"],
+    "color": "#F57F17",
+    "logo": "/logos/vahani.png"
+  },
+  {
+    "id": 11,
+    "name": "Foundation for Excellence (FFE)",
+    "scholars": "5,000",
+    "eligibility": [
+      "Family income ≤ ₹3L/year",
+      "Passed Class 12 in 2023–25",
+      "1st-year BE/B.Tech, Dual MTech, MBBS, or 5-year Law student",
+      "JEE Main ≤ 90,000 | JEE Adv ≤ 30,000 | MBBS Rank ≤ 40,000 | KCET Rank ≤ 6,000"
+    ],
+    "benefits": "₹50,000 per year till course completion.",
+    "benefitAmount": "₹50,000/year",
+    "openingMonth": "August",
+    "categories": ["engineering", "medical", "income_based"],
+    "color": "#1B5E20",
+    "logo": "/logos/ffe.png"
+  },
+  {
+    "id": 12,
+    "name": "Aditya Birla Capital Scholarship",
+    "scholars": "N/A",
+    "eligibility": [
+      "Open exclusively to meritorious girl students",
+      "Minimum of 60% marks in most recent academic year",
+      "Annual family income must not exceed Rs. 6 lakh"
+    ],
+    "benefits": "Class 9 to 12: ₹25,000. General Graduation: ₹30,000. Professional Graduation: ₹45,000. IIT/NIT/IIM: ₹60,000.",
+    "benefitAmount": "₹25,000 – ₹60,000",
+    "openingMonth": "November",
+    "categories": ["girls", "income_based", "engineering"],
+    "color": "#C62828",
+    "logo": "/logos/aditya-birla.png"
+  },
+  {
+    "id": 13,
+    "name": "Panasonic Ratti Chatr Scholarship",
+    "scholars": "30",
+    "eligibility": [
+      "Students across India who have qualified entrance test for B.E./B.Tech. programs at any IIT",
+      "Currently in their first year",
+      "More than 75% marks in Class 12",
+      "Annual family income should be INR 8,00,000 or below"
+    ],
+    "benefits": "INR 70,250 per year for four years.",
+    "benefitAmount": "₹70,250/year",
+    "openingMonth": "July",
+    "categories": ["engineering", "income_based"],
+    "color": "#0D47A1",
+    "logo": "/logos/panasonic.png"
+  },
+  {
+    "id": 14,
+    "name": "Aspire Scholarship Program",
+    "scholars": "28",
+    "eligibility": [
+      "Students enrolling in 1st year of B.Tech programs at IIT Kharagpur, IIT Hyderabad, IIT Patna, IIT Delhi, IIT Bombay, IIT Goa, IIITDM Jabalpur, IIIT Delhi, IIIT Naya Raipur, Jabalpur Engineering College, NIAMT Ranchi",
+      "Annual family income must not exceed INR 6,00,000"
+    ],
+    "benefits": "Full scholarship based on actual fee structure. Covers tuition, hostel, food, and related academic expenses. Valid for 4 years with renewal.",
+    "benefitAmount": "Full Coverage",
+    "openingMonth": "July",
+    "categories": ["engineering", "income_based"],
+    "color": "#4A148C",
+    "logo": "/logos/aspire.png"
+  },
+  {
+    "id": 15,
+    "name": "HOPE Engineering Scholarship by Schaeffler India",
+    "scholars": "32",
+    "eligibility": [
+      "PwD female students across India",
+      "1st year of any engineering program at a state or UGC-recognised college",
+      "40% or above in Class 12 (Science) in 2024–25",
+      "Preference for Automobile, Mechanical, Mechatronics, Electrical, Electronics, CS, IT branches",
+      "Family income ≤ ₹5,00,000/year"
+    ],
+    "benefits": "INR 50,000 per year for four years.",
+    "benefitAmount": "₹50,000/year",
+    "openingMonth": "July",
+    "categories": ["girls", "engineering", "income_based"],
+    "color": "#00838F",
+    "logo": "/logos/schaeffler.png"
+  },
+  {
+    "id": 16,
+    "name": "Legrand Empowering Scholarship Program",
+    "scholars": "50",
+    "eligibility": [
+      "Open to girl students across India only",
+      "Admission in B.Tech, B.E., B.Arch., BBA, B.Com., or B.Sc. programs",
+      "Passed Class 12 in 2025–26",
+      "70% or above in both Class 10 and 12",
+      "Annual family income ≤ ₹5,00,000"
+    ],
+    "benefits": "Up to 60% of annual course fees (max ₹60,000 per year), awarded each year based on academic performance.",
+    "benefitAmount": "Up to ₹60,000/year",
+    "openingMonth": "September",
+    "categories": ["girls", "engineering", "income_based"],
+    "color": "#E65100",
+    "logo": "/logos/legrand.png"
+  },
+  {
+    "id": 17,
+    "name": "IDFC FIRST Bank Engineering Scholarship",
+    "scholars": "270",
+    "eligibility": [
+      "Must be an Indian citizen",
+      "Open to 1st-year B.Tech/B.E. students",
+      "Admission in one of the eligible colleges (refer website for list)",
+      "Family income ≤ ₹6,00,000 per year",
+      "Should not be receiving any other scholarship or fee waiver"
+    ],
+    "benefits": "A scholarship of INR 1 Lakh per year for up to four years.",
+    "benefitAmount": "₹1,00,000/year",
+    "openingMonth": "August",
+    "categories": ["engineering", "income_based"],
+    "color": "#880E4F",
+    "logo": "/logos/idfc.png"
+  },
+  {
+    "id": 18,
+    "name": "DXC Progressing Minds Scholarship (STEM)",
+    "scholars": "N/A",
+    "eligibility": [
+      "Open to women & transgender students",
+      "Any year of a STEM UG course",
+      "60%+ in the last class/semester",
+      "Family income ≤ ₹4,00,000 per year",
+      "Students from all over India can apply"
+    ],
+    "benefits": "INR 50,000 (Fixed Amount).",
+    "benefitAmount": "₹50,000",
+    "openingMonth": "August",
+    "categories": ["girls", "stem", "income_based"],
+    "color": "#4527A0",
+    "logo": "/logos/dxc.png"
+  },
+  {
+    "id": 19,
+    "name": "Deutsche Bank Engineering Scholarship",
+    "scholars": "200",
+    "eligibility": [
+      "First Year Girls in Engineering Program 2025-2026",
+      "Up to 20 Years of Age",
+      "Annual Family Income Less Than INR 5 Lakhs",
+      "60% Aggregate Score in Class 10th & 12th",
+      "College Locations: Mumbai, Pune, Bengaluru, Jaipur"
+    ],
+    "benefits": "Up to ₹1 Lakh Tuition Fee, Laptop. Core Employability & English Communication Training, Domain Skills Training, Internship Support & Placement Assistance.",
+    "benefitAmount": "Up to ₹1,00,000 + Laptop",
+    "openingMonth": "August",
+    "categories": ["girls", "engineering", "income_based"],
+    "color": "#1A237E",
+    "logo": "/logos/deutsche-bank.png"
+  },
+  {
+    "id": 20,
+    "name": "U-Go Scholarship Program",
+    "scholars": "N/A",
+    "eligibility": [
+      "Young women pursuing professional UG courses (teaching, nursing, pharmacy, medicine, engineering, architecture, law, etc.)",
+      "Any year except final year",
+      "70%+ in Class 10 & 12",
+      "Family income < ₹5,00,000 per year",
+      "Open to students across India"
+    ],
+    "benefits": "Teaching: Up to ₹40,000/year. Nursing & Pharma: Up to ₹40,000/year for 4 years. 3-year courses: Up to ₹40,000/year. Engineering/MBBS/Law/Architecture: Up to ₹60,000/year for 4 years.",
+    "benefitAmount": "₹40,000 – ₹60,000/year",
+    "openingMonth": "September",
+    "categories": ["girls", "engineering", "medical", "income_based"],
+    "color": "#AD1457",
+    "logo": "/logos/u-go.png"
+  },
+  {
+    "id": 21,
+    "name": "L'Oréal India For Young Women In Science",
+    "scholars": "N/A",
+    "eligibility": [
+      "Girls only",
+      "85%+ in Class 12 (Science)",
+      "Family income ≤ ₹6,00,000 per year",
+      "Pursuing UG in a science-related field (any year except final year)",
+      "Open to students across India"
+    ],
+    "benefits": "Fixed scholarship of INR 62,500.",
+    "benefitAmount": "₹62,500",
+    "openingMonth": "September",
+    "categories": ["girls", "stem", "income_based"],
+    "color": "#6A1B9A",
+    "logo": "/logos/loreal.png"
+  },
+  {
+    "id": 22,
+    "name": "Colgate Keep India Smiling Scholarship (BDS)",
+    "scholars": "1,000",
+    "eligibility": [
+      "Open to BDS students in any year",
+      "65%+ in Class 12",
+      "2nd–4th year BDS students need 60%+ in last semester",
+      "Studying in a recognised govt./private college",
+      "Family income < ₹8,00,000 per year",
+      "Indian nationals only"
+    ],
+    "benefits": "One-time scholarship of INR 75,000.",
+    "benefitAmount": "₹75,000",
+    "openingMonth": "October",
+    "categories": ["medical", "income_based"],
+    "color": "#B71C1C",
+    "logo": "/logos/colgate.png"
+  },
+  {
+    "id": 23,
+    "name": "Santoor Scholarship Programme",
+    "scholars": "1,500",
+    "eligibility": [
+      "Young women pursuing full-time UG courses",
+      "In Andhra Pradesh or Maharashtra only",
+      "Must be in 1st year of degree",
+      "Completed Class 12 from a govt. school/junior college",
+      "Completed Class 10 from a local govt. school"
+    ],
+    "benefits": "One-time scholarship amount of INR 30,000 (fixed).",
+    "benefitAmount": "₹30,000",
+    "openingMonth": "October",
+    "categories": ["girls", "income_based"],
+    "color": "#F9A825",
+    "logo": "/logos/santoor.png"
+  },
+  {
+    "id": 24,
+    "name": "Rolls-Royce Wings4Her Scholarship",
+    "scholars": "N/A",
+    "eligibility": [
+      "Female engineering students in 1st–3rd year across India",
+      "Branches: aerospace, CS, electronics, marine, etc.",
+      "AICTE-recognised institution (preference for govt. colleges)",
+      "60%+ in Class 10 & 12",
+      "Family income ≤ ₹4,00,000 per year"
+    ],
+    "benefits": "Selected students will receive a scholarship of INR 35,000.",
+    "benefitAmount": "₹35,000",
+    "openingMonth": "October",
+    "categories": ["girls", "engineering", "income_based"],
+    "color": "#311B92",
+    "logo": "/logos/rolls-royce.png"
+  },
+  {
+    "id": 25,
+    "name": "Muthoot M George Higher Education Scholarship",
+    "scholars": "210",
+    "eligibility": [
+      "Pursuing full-time B.Tech, MBBS, or B.Sc Nursing",
+      "Admission secured for AY 2025 in a recognised institution",
+      "90%+ in Class 12",
+      "Family income ≤ ₹2,00,000 per year",
+      "Qualified the relevant entrance exam",
+      "Residents of Kerala, Karnataka, Telangana, Maharashtra, Delhi, West Bengal, Tamil Nadu"
+    ],
+    "benefits": "MBBS students: ₹2,40,000. B.Tech & B.Sc Nursing students: ₹1,20,000.",
+    "benefitAmount": "₹1,20,000 – ₹2,40,000",
+    "openingMonth": "November",
+    "categories": ["engineering", "medical", "income_based"],
+    "color": "#BF360C",
+    "logo": "/logos/muthoot.png"
+  },
+  {
+    "id": 26,
+    "name": "Sitaram Jindal Foundation Scholarship Scheme",
+    "scholars": "N/A",
+    "eligibility": [
+      "Age must be below 30 years",
+      "Open to students of Class 11, 12, ITI, Diploma, UG, or PG",
+      "General, Medical, Engineering streams",
+      "Family income up to ₹4,00,000 for salaried families",
+      "Family income up to ₹2,50,000 for others"
+    ],
+    "benefits": "Tuition fee support. Assistance for study material expenses. Accommodation support for hostellers.",
+    "benefitAmount": "Tuition + Accommodation",
+    "openingMonth": "Always Open",
+    "categories": ["open_to_all", "engineering", "medical", "income_based"],
+    "color": "#004D40",
+    "logo": "/logos/jindal.png"
+  }
+]
